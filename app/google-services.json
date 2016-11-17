@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "636428657790",
+    "firebase_url": "https://preparateegel.firebaseio.com",
+    "project_id": "preparateegel",
+    "storage_bucket": "preparateegel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636428657790:android:2b4120acb7dbd900",
+        "android_client_info": {
+          "package_name": "calejo.preparateegel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636428657790-uc67fk98v7ufiglejlh1lbiesg0vbrog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calejo.preparateegel",
+            "certificate_hash": "85936D2D839A8BA411FAAEB0544FC896AFB0AE05"
+          }
+        },
+        {
+          "client_id": "636428657790-giluuk0kvc61n3om5206sq43dtfgfre2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calejo.preparateegel",
+            "certificate_hash": "8525E055D53CA6CAC736FCF9D684DB7DCC3F9D27"
+          }
+        },
+        {
+          "client_id": "636428657790-sgb4or2suki2ic2sra9olic0u72rqld7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calejo.preparateegel",
+            "certificate_hash": "DBF1591C2C76240C564CCEC509170B52FAA6379D"
+          }
+        },
+        {
+          "client_id": "636428657790-b0jau3l28fhlpp9hdlin5g6cq41vln4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDASSCJHjh9E6HvIK4ArnUb6k6SOJuhmMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636428657790-b0jau3l28fhlpp9hdlin5g6cq41vln4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636428657790:android:501af18f1c28c297",
+        "android_client_info": {
+          "package_name": "calejo.sorpresa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636428657790-6v10en91a222voo5o8eetchcrq91i0oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calejo.sorpresa",
+            "certificate_hash": "DBF1591C2C76240C564CCEC509170B52FAA6379D"
+          }
+        },
+        {
+          "client_id": "636428657790-b0jau3l28fhlpp9hdlin5g6cq41vln4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDASSCJHjh9E6HvIK4ArnUb6k6SOJuhmMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636428657790-b0jau3l28fhlpp9hdlin5g6cq41vln4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
